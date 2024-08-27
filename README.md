@@ -1,4 +1,14 @@
-Hi, I'm Mohamed 👋
+### Hi there 👋, my name is Mohammed
+#### Data Analyst | Bi Developer | Python Developer
+![Data Analyst | Bi Developer | Python Developer](https://media.licdn.com/dms/image/v2/D4D35AQF7SInn6qYRFg/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1724673808203?e=1725372000&v=beta&t=OOZ8rqCOabNU4AdgU-kzYHFYdrcyxkbF94qmTk6e0Dw)
 
 Seeking a challenging position in a multinational and fast-growing environment in the field of BI Development and Data Analytics, where I can use and enhance my knowledge in Big Data and Data Science. I am a passionate Python developer with a keen interest in solving complex problems and improving system performance while contributing to the organization’s growth.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MOHAMEEM)](https://github.com/anuraghazra/github-readme-stats)
+
+Skills: SQL / Python / Bi / Power BI 
+
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/mohammed-mofed-allithy-557257243/)  
+
+
