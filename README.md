@@ -5,7 +5,7 @@ Seeking a challenging position in a multinational and fast-growing environment i
 Skills: SQL / Python / Bi / Power BI 
 
 - 🔭 I’m currently working on this page.
-- 
+ 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MOHAMEEM)](https://github.com/anuraghazra/github-readme-stats)
 
 
