@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Mohammed
 #### Data Analyst | Bi Developer | Python Developer
-![Data Analyst | Bi Developer | Python Developer](https://i.pinimg.com/564x/52/4e/6c/524e6cfa2845354259192fea87e20596.jpg)
+![Data Analyst | Bi Developer | Python Developer](https://i.pinimg.com/564x/ad/44/a5/ad44a5e62c2a255c494cebbc49c9733b.jpg)
 
 Seeking a challenging position in a multinational and fast-growing environment in the field of BI Development and Data Analytics, where I can use and enhance my knowledge in Big Data and Data Science. I am a passionate Python developer with a keen interest in solving complex problems and improving system performance while contributing to the organization’s growth.
 
