@@ -4,7 +4,10 @@ Seeking a challenging position in a multinational and fast-growing environment i
 
 Skills: SQL / Python / Bi / Power BI 
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on this page.
+- 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MOHAMEEM)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/mohammed-mofed-allithy-557257243/)  
 
