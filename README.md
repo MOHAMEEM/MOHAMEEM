@@ -1,10 +1,14 @@
 ### Hi there 👋, my name is Mohammed
 #### Data Engineer
-![Data Analyst | Bi Developer | Python Developer](https://i.pinimg.com/564x/ad/44/a5/ad44a5e62c2a255c494cebbc49c9733b.jpg)
+![Data Engineer](https://i.pinimg.com/564x/ad/44/a5/ad44a5e62c2a255c494cebbc49c9733b.jpg)
 
-Seeking a challenging position in a multinational and fast-growing environment in the field of BI Development and Data Analytics, where I can use and enhance my knowledge in Big Data and Data Science. I am a passionate Python developer with a keen interest in solving complex problems and improving system performance while contributing to the organization’s growth.
+Passionate Data Engineer with hands-on experience designing, building, and optimizing scalable data pipelines in 
+fast-paced environments. Proficient in Python, SQL, Apache Spark, and Apache Airflow, with a proven record of
+enhancing ETL performance and reducing data latency. Skilled in cloud platforms including Google Cloud Platform(GCP),
+leveraging workflow orchestration and automation to transform raw data into actionable insights. Dedicated to solving
+complex data challenges and driving data-driven decision-making within dynamic, innovative teams.
 
-Skills: SQL / Python / Bi / Power BI 
+Skills: SQL / Python / Pyspark / ApacheAirflow / Docker / Tableau  
 
 
 
